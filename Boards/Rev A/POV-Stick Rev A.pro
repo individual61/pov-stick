@@ -1,4 +1,4 @@
-update=Monday, February 05, 2018 'PMt' 09:53:58 PM
+update=Wednesday, February 07, 2018 'AMt' 12:33:31 AM
 version=1
 last_client=kicad
 [cvpcb]
@@ -70,3 +70,4 @@ LibName38=/Users/durandal/Documents/Projects/KiCADCustomLibraries/MyCapacitors
 LibName39=/Users/durandal/Documents/Projects/KiCADCustomLibraries/MyLEDs
 LibName40=/Users/durandal/Documents/Projects/KiCADCustomLibraries/MyConnectors
 LibName41=/Users/durandal/Documents/Projects/KiCADCustomLibraries/MySwitchesButtons
+LibName42=MyICs
